@@ -1,2 +1,3 @@
 # EduGuard
-Gestão escolar
+Gestão escolar de confiança para todas as partes.
+
